@@ -1,0 +1,13 @@
+.stock-card {
+    background: #333333;
+}
+
+.stock-card.increase {
+    background: #558B2F;
+    color: #fff;
+}
+
+.stock-card.decrease {
+    background: #c62828;
+    color: #fff;
+}
